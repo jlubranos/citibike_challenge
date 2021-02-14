@@ -45,27 +45,27 @@ https://public.tableau.com/views/TableauChallenge_16125400242080/Topbikehistoryo
 
 ## Below are screenshots of my story:
 
-![citibike1](Images/citibike1.jpg)
+![citibike1](Images/Citibike1.jpg)
 * Shows all bike stations in NYC in 2020
 
-![citibike2](Images/citibike2.jpg)
+![citibike2](Images/Citibike2.jpg)
 * Number of trips by bikeid for each month in 2020
 
-![citibike3](Images/citibike3.jpg)
+![citibike3](Images/Citibike3.jpg)
 * Mileage by bikeid for each month in 2020.
 
-![citibike4](Images/citibike4.jpg)
+![citibike4](Images/Citibike4.jpg)
 * Patrons per month in 2020.
 
-![citibike5](Images/citibike5.jpg)
+![citibike5](Images/Citibike5.jpg)
 * Fleet size by month in 2020.
 
-![citibike6](Images/citibike6.jpg)
+![citibike6](Images/Citibike6.jpg)
 * Number of bikes in desperate need of service in 2020.
 
 
-![citibike7](Images/citibike7.jpg)
+![citibike7](Images/Citibike7.jpg)
 * Interactive map showing routes taken by a bikeid user select for given month in 2020.
 
-![citibike8](Images/citibike8.jpg)
+![citibike8](Images/Citibike8.jpg)
 * Summary dashboard of graphs above.
