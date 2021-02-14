@@ -1,6 +1,6 @@
 # Citi Bike
 
-![citibike](images/citibike.jpg)
+![citibike](Images/citibike.jpg)
 
 
 ## Analysis of top 25 bikes per month in the year 2020, based on mileage and number of routes they have been used for. According to bicyclewarehouse.com a bikes tire should be changed every 2,500 miles.  Taking into account the heavy usage of the bikes, they will need to be maintained without limiting the supply of bicycles needed for CitiBike to operate.  So I analyized the monthly usage of these bikes and determined that the slower months which were in 2020 January, February, March, and December were the months which tire changes can occur as well as maintaining any other fixing the bike needs while its there.  Due to COVID-19, which shut us down in March of 2020, I noticed there was a big dip in April of 2020.  I would tend to believe that Citi Bike had a pretty good year due people being tired of staying indoors.  The weather in 2020 was nice and CitiBike provided people with a great outdoor activity.
@@ -45,27 +45,27 @@ https://public.tableau.com/views/TableauChallenge_16125400242080/Topbikehistoryo
 
 ## Below are screenshots of my story:
 
-![citibike1](images/citibike1.jpg)
+![citibike1](Images/citibike1.jpg)
 * Shows all bike stations in NYC in 2020
 
-![citibike2](images/citibike2.jpg)
+![citibike2](Images/citibike2.jpg)
 * Number of trips by bikeid for each month in 2020
 
-![citibike3](images/citibike3.jpg)
+![citibike3](Images/citibike3.jpg)
 * Mileage by bikeid for each month in 2020.
 
-![citibike4](images/citibike4.jpg)
+![citibike4](Images/citibike4.jpg)
 * Patrons per month in 2020.
 
-![citibike5](images/citibike5.jpg)
+![citibike5](Images/citibike5.jpg)
 * Fleet size by month in 2020.
 
-![citibike6](images/citibike6.jpg)
+![citibike6](Images/citibike6.jpg)
 * Number of bikes in desperate need of service in 2020.
 
 
-![citibike7](images/citibike7.jpg)
+![citibike7](Images/citibike7.jpg)
 * Interactive map showing routes taken by a bikeid user select for given month in 2020.
 
-![citibike8](images/citibike8.jpg)
+![citibike8](Images/citibike8.jpg)
 * Summary dashboard of graphs above.
