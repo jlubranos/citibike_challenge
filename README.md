@@ -5,7 +5,7 @@
 
 ## Analysis of top 25 bikes per month in the year 2020, based on mileage and number of routes they have been used for. According to bicyclewarehouse.com a bikes tire should be changed every 2,500 miles.  Taking into account the heavy usage of the bikes, they will need to be maintained without limiting the supply of bicycles needed for CitiBike to operate.  So I analyized the monthly usage of these bikes and determined that the slower months which were in 2020 January, February, March, and December were the months which tire changes can occur as well as maintaining any other fixing the bike needs while its there.  Due to COVID-19, which shut us down in March of 2020, I noticed there was a big dip in April of 2020.  I would tend to believe that Citi Bike had a pretty good year due people being tired of staying indoors.  The weather in 2020 was nice and CitiBike provided people with a great outdoor activity.
 
-Files used were the .csv's supplied on the Citi Bike Data webpage (which were not upload due to size constraint on git hub.) for each month in 2020.  A jupyter notebook was created to bring in each file and process the data to create 2 csv's. (Only 1 set of the csv's were left in the /Data file due to git hub's file constraint)
+Files used were the .csv's supplied on the Citi Bike Data webpage (which were not uploaded due to size constraint on git hub 100MB limit.) for each month in 2020.  A jupyter notebook was created to bring in each file and process the data to create 2 csv's.
 
 * bike_history.csv - which contains :
     * bikeid, month, mileage, biketrips, tripduration, hours
